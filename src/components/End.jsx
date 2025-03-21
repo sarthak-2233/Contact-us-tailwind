@@ -62,7 +62,7 @@ function End() {
         {/* Submit Button */}
         <button
           type="submit"
-          className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600 transition"
+          className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600 transition hover:cursor-pointer hover:text-2xl"
         >
           Submit
         </button>
